@@ -9,3 +9,9 @@ git add .
 git commit -m "Configure React app for deployment to GitHub Pages"
 git push origin master
 
+# List of React Components libraries
+https://github.com/brillout/awesome-react-components?tab=readme-ov-file#ui-components
+
+# Libraries used
+antd
+
